@@ -3,12 +3,26 @@ body {
     line-height: 34px;
 }
 
+nav {
+    background-color: #FD739C;
+}
+
 header {
     background-color: #FD739C;
-    color: white;
+    color: #FFFFFF;
+    padding: 144px 0;
+}
+
+header p {
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1,
 h2 {
-    font-family: Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.25;
+}
+
+main {
+    margin-top: 80px;
 }
